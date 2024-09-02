@@ -1,0 +1,1214 @@
+fileFormatVersion: 2
+guid: 71b0716edce0dd247bdfbebb28251192
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_0
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1151
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e924271ce713136468b294b14e201520
+      internalID: -1008072990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_1
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1152
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d680f603af9b3a4db1970118d799add
+      internalID: -1389896298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_2
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1153
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc3f5ee255f5a24e9e5cf0f7b312cfb
+      internalID: -2097185062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1068
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61099e55523ddab40a206aaf5df3049f
+      internalID: -132783098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_4
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 984
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724adc8186907ec42995ff6d9140edc7
+      internalID: -1936136648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 900
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67774259df75a514097314a43ef15359
+      internalID: 977926568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_6
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1068
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d2597296fa9e4ea3da2f724ad5623
+      internalID: -687127440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 984
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38253384efd70174db806e442adef76d
+      internalID: -876532870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_8
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 900
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc127512b7cf364aa29a364a1eb29f9
+      internalID: -1714531751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_9
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1072
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943c49c0e6587e4ab1faaf2f3b2b000
+      internalID: 170684748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 991
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9e2ef76d33ba944a8cac1f770c3cb9
+      internalID: 241201018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 909
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6972d3826232148868d771cb629d0c
+      internalID: -366017015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_12
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1159
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575a403f0df3d1840ac725a36669737f
+      internalID: 588335183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_13
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1159
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee62623fa28b540419cdcd774d8b1738
+      internalID: 659218349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_14
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1159
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839fe687a487fca4a9d7916172ca3a94
+      internalID: -51153897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_15
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1159
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c27a80a741fd58548bb1104da6840ea7
+      internalID: 614406554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_16
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1116
+        width: 83
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4567fa86c9599a047984f51643391de9
+      internalID: 1039418391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_17
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1073
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf599ddcf589a674a931cc10d59b320a
+      internalID: 2082890580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_18
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1029
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041d64fd90cff474abce0d6549bfee5c
+      internalID: 1799192919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_19
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 987
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16164bc64c7ffeb47a01741f138dc4a0
+      internalID: -1994744261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_20
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 945
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f50d711e4f064293a71eea4ab456e
+      internalID: -1534388257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_21
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 902
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5625ddb7265de9a439190d4ac6a6614f
+      internalID: 2011722760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_22
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 945
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5ba48c155b1f7439d065f9cf5de1c5
+      internalID: -153817240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_23
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 902
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8a654f383dfdd4983afc9f0054ba83
+      internalID: 637882995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_24
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1116
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1694276cb81df41abbc89144629d2c
+      internalID: 1338039002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_25
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1117
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542ad05803425794499da0d3b1542d4a
+      internalID: -868619570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_26
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1117
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56dfe5ae3c312749913d06ff484b7c6
+      internalID: -867865057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_27
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 1116
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986a7064ede43224eacdefec17cdfe67
+      internalID: -814173828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_28
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1137
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff3dd085afd6b42aa337e0a7d609b8
+      internalID: 203633352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_29
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1117
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad933bfb48d8f24d92122ffaaf9e351
+      internalID: -1329083203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_30
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1094
+        width: 207
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc74620c77e26418a81a48cd1dee13
+      internalID: 1217772718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_31
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1072
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb085e8202d67e4b86f92b9b007d892
+      internalID: 1578824540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_32
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1051
+        width: 207
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca83d7da213fb4f96a923bafbcf3ed
+      internalID: -903394453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_33
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1029
+        width: 207
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fbb86b6f996b142a34e0a3b37420da
+      internalID: -1639433037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_34
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1007
+        width: 170
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2035dfe678338488bd7dd5495707d5
+      internalID: -1109020360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 985
+        width: 170
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d984e2275825be6409f8e37386b32a86
+      internalID: 2004978116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_36
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 963
+        width: 170
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250b017b3e3ae145901f0dc42bb08bf
+      internalID: -1358719233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_37
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 941
+        width: 170
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb6186e4da2e14987670e242b42098
+      internalID: -142190962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_38
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1095
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f68572496739d4993dcf3248a6bcdc
+      internalID: 1969554119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_39
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1073
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70260d48ff5e52c44a79f644a7b5e1dd
+      internalID: -1485496374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_40
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 1051
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a625919457ada47af3caf32e6b02f4
+      internalID: 1838590943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_41
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1029
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31caf0c3985f449b2df0ffd2ac0745
+      internalID: -2041498044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_42
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 919
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c7d84c7f7c76346a73389ca1dc363f
+      internalID: 805438856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_43
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 919
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acde97f4aa180cc4ea3642cd33190ea0
+      internalID: -307431907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_44
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 897
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d82dbfc7ae5f468d75e5d8dc3975b
+      internalID: -2144711364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_45
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 897
+        width: 83
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d232d4a795193a04cbc6ffab14d0905a
+      internalID: 959421629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_46
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 1007
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a42270271fb714a85a89f83fff7ffe
+      internalID: 1041791991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_47
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 985
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad8bda3300b65a4bbe926fefbc079cc
+      internalID: 1342455545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_48
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 962
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c7e774a496fab4fa58431b1030f8b9
+      internalID: 1476849142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds Space - Blocks & Objects_49
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 942
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e638fc22830ac45b952069f4414c9e
+      internalID: 1388854863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Angry Birds Space - Blocks & Objects_0: -1008072990
+      Mobile - Angry Birds Space - Blocks & Objects_1: -1389896298
+      Mobile - Angry Birds Space - Blocks & Objects_10: 241201018
+      Mobile - Angry Birds Space - Blocks & Objects_11: -366017015
+      Mobile - Angry Birds Space - Blocks & Objects_12: 588335183
+      Mobile - Angry Birds Space - Blocks & Objects_13: 659218349
+      Mobile - Angry Birds Space - Blocks & Objects_14: -51153897
+      Mobile - Angry Birds Space - Blocks & Objects_15: 614406554
+      Mobile - Angry Birds Space - Blocks & Objects_16: 1039418391
+      Mobile - Angry Birds Space - Blocks & Objects_17: 2082890580
+      Mobile - Angry Birds Space - Blocks & Objects_18: 1799192919
+      Mobile - Angry Birds Space - Blocks & Objects_19: -1994744261
+      Mobile - Angry Birds Space - Blocks & Objects_2: -2097185062
+      Mobile - Angry Birds Space - Blocks & Objects_20: -1534388257
+      Mobile - Angry Birds Space - Blocks & Objects_21: 2011722760
+      Mobile - Angry Birds Space - Blocks & Objects_22: -153817240
+      Mobile - Angry Birds Space - Blocks & Objects_23: 637882995
+      Mobile - Angry Birds Space - Blocks & Objects_24: 1338039002
+      Mobile - Angry Birds Space - Blocks & Objects_25: -868619570
+      Mobile - Angry Birds Space - Blocks & Objects_26: -867865057
+      Mobile - Angry Birds Space - Blocks & Objects_27: -814173828
+      Mobile - Angry Birds Space - Blocks & Objects_28: 203633352
+      Mobile - Angry Birds Space - Blocks & Objects_29: -1329083203
+      Mobile - Angry Birds Space - Blocks & Objects_3: -132783098
+      Mobile - Angry Birds Space - Blocks & Objects_30: 1217772718
+      Mobile - Angry Birds Space - Blocks & Objects_31: 1578824540
+      Mobile - Angry Birds Space - Blocks & Objects_32: -903394453
+      Mobile - Angry Birds Space - Blocks & Objects_33: -1639433037
+      Mobile - Angry Birds Space - Blocks & Objects_34: -1109020360
+      Mobile - Angry Birds Space - Blocks & Objects_35: 2004978116
+      Mobile - Angry Birds Space - Blocks & Objects_36: -1358719233
+      Mobile - Angry Birds Space - Blocks & Objects_37: -142190962
+      Mobile - Angry Birds Space - Blocks & Objects_38: 1969554119
+      Mobile - Angry Birds Space - Blocks & Objects_39: -1485496374
+      Mobile - Angry Birds Space - Blocks & Objects_4: -1936136648
+      Mobile - Angry Birds Space - Blocks & Objects_40: 1838590943
+      Mobile - Angry Birds Space - Blocks & Objects_41: -2041498044
+      Mobile - Angry Birds Space - Blocks & Objects_42: 805438856
+      Mobile - Angry Birds Space - Blocks & Objects_43: -307431907
+      Mobile - Angry Birds Space - Blocks & Objects_44: -2144711364
+      Mobile - Angry Birds Space - Blocks & Objects_45: 959421629
+      Mobile - Angry Birds Space - Blocks & Objects_46: 1041791991
+      Mobile - Angry Birds Space - Blocks & Objects_47: 1342455545
+      Mobile - Angry Birds Space - Blocks & Objects_48: 1476849142
+      Mobile - Angry Birds Space - Blocks & Objects_49: 1388854863
+      Mobile - Angry Birds Space - Blocks & Objects_5: 977926568
+      Mobile - Angry Birds Space - Blocks & Objects_6: -687127440
+      Mobile - Angry Birds Space - Blocks & Objects_7: -876532870
+      Mobile - Angry Birds Space - Blocks & Objects_8: -1714531751
+      Mobile - Angry Birds Space - Blocks & Objects_9: 170684748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

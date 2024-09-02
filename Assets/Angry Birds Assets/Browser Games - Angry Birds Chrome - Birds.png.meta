@@ -1,0 +1,1236 @@
+fileFormatVersion: 2
+guid: 992c2bf7a1861f047acc15b251236e9e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 378
+        width: 330
+        height: 296
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a941bb2efda3e49b1f66acb2993b00
+      internalID: -383946399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 568
+        width: 80
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d64b64dfb67f0a46a18bfbdfed37279
+      internalID: -1544534998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 568
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1df5c3a426cd440a85597fea9aa437
+      internalID: -1930926665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 568
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201daacddbc25fe4892d8ab9c332ab5d
+      internalID: 747263675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 583
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b9813bdee0e104ab5104af75905743
+      internalID: -2030725917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 458
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07678a93e712ad4884aa1c4b0859921
+      internalID: -1876456918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 458
+        width: 85
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0763585443c3c3446bcb39c5fda9100e
+      internalID: 743803077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_7
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 458
+        width: 64
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9c904f1394ce6479ae0a5c37024288
+      internalID: 1182960585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 475
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a5c3b008acdb4682b7375424f188d
+      internalID: -879603562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 384
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad60f48154d0b6408fe4574e3783c14
+      internalID: -591785626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 384
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b176ae36194911e438eb9fd71ba3e806
+      internalID: 1229613504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_11
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 384
+        width: 65
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240935fafd56c554ba67f421e8b4a0f9
+      internalID: -1136752020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_12
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 401
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2884f83b91ff2b44b4881dac9fde9f3
+      internalID: -1484329440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 268
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f29b8e101dd3f14b956a0b93ec88fba
+      internalID: 1989285603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 276
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5abb056fbf1846a35cfa65259f643
+      internalID: -635487283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 275
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edffa1e63082c4582f64c919ab655d
+      internalID: -205935969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 300
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542216af477f9474480637cab7a79046
+      internalID: -76000118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 300
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38699683c63e95c43bcf1b47278cdd19
+      internalID: -1758838594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 300
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28d0b2e6ecc4ec4cb8e08b5b8f887bf
+      internalID: 659677277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_19
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 327
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c818ed1caa4fec49ac714aeee0c52cb
+      internalID: -241906189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 292
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3bd2199a1128d478068444e42ff5d6
+      internalID: -957700739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 173
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb170905f30ae049b1d4f7407f997d1
+      internalID: 1721788906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 172
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1493f51045ad1342b771e8a2a9f8fda
+      internalID: -1542631325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 172
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2e1d8b292e8b44ebf36e1ffac9ec55
+      internalID: -2100074195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_24
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 206
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4719b41bb7661e498c8e33f4913fe60
+      internalID: -1253867352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_25
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 189
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9686b6494daf19468199272a451edda
+      internalID: 404005617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 191
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8916d746b58242b4d139af2b8f693
+      internalID: 2018812280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_27
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 189
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5a02c78080a864d818a7136636fb7a
+      internalID: -1008776892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_28
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 233
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f871594344ff84594131baacb7ea0c
+      internalID: 1544615083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_29
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 198
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187a8f63e3d159a489e029c4132d0363
+      internalID: -789713166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 80
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20b5b2dbab32384694eafbc1924171b
+      internalID: -619976521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_31
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 69
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0cc76b807d89b41a3594990b4fbf18
+      internalID: -1272191069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_32
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 94
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b453d27b0b2e409b4415b5e99b486
+      internalID: -2041029086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 112
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4515c07901cab448c498fbee5a8e0c
+      internalID: -1430519916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 98
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de732e6979554d84e94d53a8b85a73c9
+      internalID: 214516659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_35
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 133
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48fa964efb93264db1ad83bc7abcccd
+      internalID: -1676573139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_36
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 140
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bfd001bbdad6445ae1b64e13d00904
+      internalID: 82653594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_37
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 140
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda248a200c89c440bf3f822eb04dc3f
+      internalID: -2044732305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_38
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2
+        width: 83
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df00e2f1869390d48a5201b861679a48
+      internalID: -248415545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_39
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 78
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb86dd8dd2d4f443a7c82b268bf6a43
+      internalID: 135489427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_40
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 90
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee3045fd3cb18f4b8b5a04d6456672d
+      internalID: -1359954666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_41
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 89
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b523c77db4114794e5a21c9c84067
+      internalID: -228315093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_42
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 26
+        width: 55
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f69cb08c60c334c9f34d9fcaa6c884
+      internalID: 1875781098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 13
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ba7fb023247e4da9f5cc241de7273
+      internalID: 1089459235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_44
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 23
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae12a422163d25543931ef3dd8a5d01e
+      internalID: -2105013847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_45
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 5
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155e89c4529c2044bcb03a955410d91
+      internalID: -941907159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_46
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 17
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e67fbebde2c746b7f331846cd88ce
+      internalID: -1224465108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_47
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 54
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5726c15e5bd0c3648a571aa2928337a9
+      internalID: 200262277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_48
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 55
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce710680ef87301468a2dd46eeec6c3b
+      internalID: -1406310398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_49
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d794e621e95be4daca66525ee13104
+      internalID: -36270771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Angry Birds Chrome - Birds_50
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 20
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b004794525c95e041b41dee287b6c6fa
+      internalID: 235253904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Browser Games - Angry Birds Chrome - Birds_0: -383946399
+      Browser Games - Angry Birds Chrome - Birds_1: -1544534998
+      Browser Games - Angry Birds Chrome - Birds_10: 1229613504
+      Browser Games - Angry Birds Chrome - Birds_11: -1136752020
+      Browser Games - Angry Birds Chrome - Birds_12: -1484329440
+      Browser Games - Angry Birds Chrome - Birds_13: 1989285603
+      Browser Games - Angry Birds Chrome - Birds_14: -635487283
+      Browser Games - Angry Birds Chrome - Birds_15: -205935969
+      Browser Games - Angry Birds Chrome - Birds_16: -76000118
+      Browser Games - Angry Birds Chrome - Birds_17: -1758838594
+      Browser Games - Angry Birds Chrome - Birds_18: 659677277
+      Browser Games - Angry Birds Chrome - Birds_19: -241906189
+      Browser Games - Angry Birds Chrome - Birds_2: -1930926665
+      Browser Games - Angry Birds Chrome - Birds_20: -957700739
+      Browser Games - Angry Birds Chrome - Birds_21: 1721788906
+      Browser Games - Angry Birds Chrome - Birds_22: -1542631325
+      Browser Games - Angry Birds Chrome - Birds_23: -2100074195
+      Browser Games - Angry Birds Chrome - Birds_24: -1253867352
+      Browser Games - Angry Birds Chrome - Birds_25: 404005617
+      Browser Games - Angry Birds Chrome - Birds_26: 2018812280
+      Browser Games - Angry Birds Chrome - Birds_27: -1008776892
+      Browser Games - Angry Birds Chrome - Birds_28: 1544615083
+      Browser Games - Angry Birds Chrome - Birds_29: -789713166
+      Browser Games - Angry Birds Chrome - Birds_3: 747263675
+      Browser Games - Angry Birds Chrome - Birds_30: -619976521
+      Browser Games - Angry Birds Chrome - Birds_31: -1272191069
+      Browser Games - Angry Birds Chrome - Birds_32: -2041029086
+      Browser Games - Angry Birds Chrome - Birds_33: -1430519916
+      Browser Games - Angry Birds Chrome - Birds_34: 214516659
+      Browser Games - Angry Birds Chrome - Birds_35: -1676573139
+      Browser Games - Angry Birds Chrome - Birds_36: 82653594
+      Browser Games - Angry Birds Chrome - Birds_37: -2044732305
+      Browser Games - Angry Birds Chrome - Birds_38: -248415545
+      Browser Games - Angry Birds Chrome - Birds_39: 135489427
+      Browser Games - Angry Birds Chrome - Birds_4: -2030725917
+      Browser Games - Angry Birds Chrome - Birds_40: -1359954666
+      Browser Games - Angry Birds Chrome - Birds_41: -228315093
+      Browser Games - Angry Birds Chrome - Birds_42: 1875781098
+      Browser Games - Angry Birds Chrome - Birds_43: 1089459235
+      Browser Games - Angry Birds Chrome - Birds_44: -2105013847
+      Browser Games - Angry Birds Chrome - Birds_45: -941907159
+      Browser Games - Angry Birds Chrome - Birds_46: -1224465108
+      Browser Games - Angry Birds Chrome - Birds_47: 200262277
+      Browser Games - Angry Birds Chrome - Birds_48: -1406310398
+      Browser Games - Angry Birds Chrome - Birds_49: -36270771
+      Browser Games - Angry Birds Chrome - Birds_5: -1876456918
+      Browser Games - Angry Birds Chrome - Birds_50: 235253904
+      Browser Games - Angry Birds Chrome - Birds_6: 743803077
+      Browser Games - Angry Birds Chrome - Birds_7: 1182960585
+      Browser Games - Angry Birds Chrome - Birds_8: -879603562
+      Browser Games - Angry Birds Chrome - Birds_9: -591785626
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

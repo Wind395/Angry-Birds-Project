@@ -1,0 +1,2006 @@
+fileFormatVersion: 2
+guid: c83371863e3aa3d4d86f77e12073e1cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 940
+        width: 131
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c5bc131c47b934fb5963f9cc349771
+      internalID: 1141088065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 985
+        width: 120
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e0cf5564c9342488be14ad8f257f1c
+      internalID: 1193775111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 985
+        width: 120
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d295c9420814a4428b9850299ae0d51
+      internalID: 2145827099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 985
+        width: 120
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728c4086caf46df45a8e58111ba1bfa9
+      internalID: 1712937415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_4
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 978
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688f16e00ff9f74da8585e70a5caa9b
+      internalID: -1161892842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_5
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 982
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df1ec68d508af4ea96cc3a0b21161e
+      internalID: 151356614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_6
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 982
+        width: 120
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07a5ccfe72a07d45b203d011a8a643a
+      internalID: -1197307747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_7
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 760
+        width: 140
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4606c81532610946a56449e83d1bab1
+      internalID: 1071849660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 940
+        width: 667
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbf20360f37f40408c335a7a6ad906d
+      internalID: -1181251525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_9
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 940
+        width: 88
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14969c55e35c86445bbbc9418454b3cb
+      internalID: 10178482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_10
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 786
+        width: 345
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85c69a1d8fc5e45a7f03702be6c8c9
+      internalID: -692321783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_11
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 877
+        width: 172
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7e4576e770f494e8dfced194da29a3
+      internalID: 510350857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_12
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 788
+        width: 135
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ac837676b004d4eb57b39ca32e890f
+      internalID: 352471640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 792
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16c4374b4b01f4d868be4dfe5cebdd
+      internalID: 654051040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_14
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 875
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5f935c681d29a48aa0108a2cedadfc
+      internalID: 1507611228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 868
+        width: 120
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca7e47bfe5d0f4a847ec74c3939027
+      internalID: 509804696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_16
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 875
+        width: 119
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d39bf1415641c41aa8a438eba7c3b9
+      internalID: -792329951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_17
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 875
+        width: 120
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5c49e54bbc544db05736c3583ed99
+      internalID: -890660943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_18
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 871
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74857e9d26f66554ea55afc126d72fb5
+      internalID: -2097492115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_19
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 789
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5586458ea41fb64f9fa1fd67282bdf8
+      internalID: 554394956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_20
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 789
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7371c2976f5df4795794cd18108f48
+      internalID: -318767706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_21
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 629
+        width: 511
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ec2330444b5e4db17219d6ca95444
+      internalID: -1526956459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_22
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 808
+        width: 246
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc57f1e5f41f742a93285655810d88
+      internalID: 2142444573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 642
+        width: 133
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b08867b6b450e74aa85a0c915481be3
+      internalID: 1969481968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 760
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5c86e867fc3654798b71dfc36c746e
+      internalID: 515882333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 173
+        width: 725
+        height: 694
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a6322651ee0b347a216378dd013407
+      internalID: 1587438298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_26
+      rect:
+        serializedVersion: 2
+        x: 2272
+        y: 785
+        width: 142
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2986d003778794d82ab0916c52af79
+      internalID: -1982792820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_27
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 787
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbade44f24336349abce509ad8c3dc5
+      internalID: 20192859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_28
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 666
+        width: 153
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574839b8c915fd54ca8920c76c4aa5e1
+      internalID: -909006681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_29
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 580
+        width: 106
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b6d097e511fb4e94c0a5530aebebd
+      internalID: -1410682424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_30
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 611
+        width: 133
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ec24e1496ab8247b19746023cef06a
+      internalID: -708047067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_31
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 640
+        width: 134
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171b7ee1d8f64d74b9f4526f8fcc77df
+      internalID: 289878295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_32
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 640
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace299637a0dcf940bd42d97203fbfc8
+      internalID: -1697190689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_33
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 599
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d188f20f2b92d034e9cd33c141f5abf3
+      internalID: 770981385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_34
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 598
+        width: 185
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f24372b1c4921745a7858c60943fb18
+      internalID: -2130119765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_35
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 661
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d99edeaee2afca4fb45994b8a436f88
+      internalID: 285972314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_36
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 599
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8a296bd2015b441a984e0b6b8cb255
+      internalID: -43447949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_37
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 602
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc27a5324dc3cd469b86c846d523d41
+      internalID: -2063276523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 493
+        width: 132
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb4991c5343fb04e93443caf603330d
+      internalID: -2010285607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_39
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 149
+        width: 221
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c94f895c97f0640b385490cf93cf6b
+      internalID: -1558684463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_40
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 538
+        width: 221
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d05757a3c3af344a071f31f5142ebc
+      internalID: -1671608796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_41
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 460
+        width: 239
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a434fb2f256c44ab8f033c0c4c47c
+      internalID: -2037436911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_42
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 489
+        width: 134
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909e5c7e50e58a40a4a6df62b4bea51
+      internalID: 756213313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_43
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 489
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a2ae357c70aa544983b7687bacfd38
+      internalID: 1570757878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_44
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 344
+        width: 101
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9753e9229b16b2a4e97350e92df48744
+      internalID: 1350381976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_45
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 344
+        width: 411
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d98197818beb049b53127b2796522a
+      internalID: -1868205810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_46
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 474
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b7264d6bb7bf245b9d029938eee7db
+      internalID: -2090182761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_47
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 474
+        width: 147
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263e1b6f45c7e0e4cafe5859cc9c7f7f
+      internalID: -1544631042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_48
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 497
+        width: 234
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9300ba0900c3f54893a5aab17e3931f
+      internalID: -587834454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_49
+      rect:
+        serializedVersion: 2
+        x: 2498
+        y: 498
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a72ccd7d2294b47b6a7a527384b159
+      internalID: 1548406654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 344
+        width: 131
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c14159174e6dd4d8053d01c0584f4c
+      internalID: 1619831073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_51
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 395
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04023ff2a4ff744e86395304ae902e7
+      internalID: -1213641687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_52
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 339
+        width: 134
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1e492d05edee94dbfc2d8ec65095d2
+      internalID: -1201824600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_53
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 339
+        width: 131
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d9c3c8492ce3843b1642984f707edd
+      internalID: -275201828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_54
+      rect:
+        serializedVersion: 2
+        x: 2271
+        y: 463
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd5f689fc60686438ad35aec222d1e5
+      internalID: 2109306638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_55
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 459
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c6e08c684248c4b8e47469183d4ee6
+      internalID: -470872961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_56
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 463
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f3638bba513624588f74ba118ddc8f
+      internalID: -1895189481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_57
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 303
+        width: 106
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668493cb4c045f742802852bb8f86999
+      internalID: -1549745301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_58
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 354
+        width: 135
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56090c0e263d07a4a86eaed151945480
+      internalID: -1058405476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_59
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 0
+        width: 534
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed678fb765cc90a48880b56840ebe04a
+      internalID: -1544962948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_60
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 368
+        width: 79
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c683c540b9ccbd4a8f304818e68f66a
+      internalID: 1052693274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_61
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 375
+        width: 130
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afee1cb2bc18554e9481a66018de0c3
+      internalID: 659072750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f996f902a13784caa50f5acdc78d8f
+      internalID: 1502984403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_63
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 210
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b7afb2f50ef7a48977f41c0cb28d75
+      internalID: 1705573888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_64
+      rect:
+        serializedVersion: 2
+        x: 2295
+        y: 289
+        width: 319
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72365e65588143c49a33a3910fa975f0
+      internalID: -1427061901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_65
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 214
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaac24e7baabde448452fd66785a9c2
+      internalID: -335661901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_66
+      rect:
+        serializedVersion: 2
+        x: 2393
+        y: 219
+        width: 140
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b14105edd98b354ba3e657c83ffef0a
+      internalID: 308927246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_67
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 264
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5f9ffa2c7f8b2438f77d116fb4e658
+      internalID: -2133031920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_68
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 246
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c15ca7d2e6624b9c42949119711c4
+      internalID: 1801298275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f089c2a6c46ea4c45981f8a08fa4a211
+      internalID: 244917542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_70
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 221
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429e84cae946a9d429dde27311aec95a
+      internalID: -1317577471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_71
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 160
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b804c1191ceb0743976f3bd295ab5f0
+      internalID: -1806830655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_72
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 183
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99b792c346fa6b4b8ab289b06a923e4
+      internalID: -1435937438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_73
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fed44b87285ef8409bd7dd86503c930
+      internalID: -2126364345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_74
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 0
+        width: 136
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c01853cbd29c694ca4611988f3796f9
+      internalID: 177044740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_75
+      rect:
+        serializedVersion: 2
+        x: 2423
+        y: 159
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6347441ba47d54eb56a23df06dd4de
+      internalID: 1992886453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 407
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05eb3440fa2f74a478b5deec07d559b6
+      internalID: 887571284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 108
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a15377e6fd512e940b0dd2662721f112
+      internalID: 80561847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_78
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 574
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401a9157fab5ca14fb94dd1d068a4b48
+      internalID: -1299271680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_79
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 58
+        width: 184
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4e3b45676211e48b51c602de603eb4
+      internalID: 1962521066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_80
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 0
+        width: 212
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae2fb5aaf1c7046bbc8235ab2a82a2
+      internalID: -183426179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_81
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 0
+        width: 93
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6f7a76902f7ff498c295972f7686e3
+      internalID: 1159549536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_82
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 875
+        width: 119
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb84417a531a9ad4098bd87604d1372a
+      internalID: 1826969851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 985
+        width: 120
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea47218f554535441b441e2ed4e2ae87
+      internalID: 1362796243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_84
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 872
+        width: 120
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb08a72bf6dee3468c84c97cd9b037a
+      internalID: -1896975600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Post-Chrome Bad Piggies_85
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 652
+        width: 120
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd5cf64026fca9468cd5da0a8f9e064
+      internalID: 919273159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_0: 1141088065
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_1: 1193775111
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_10: -692321783
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_11: 510350857
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_12: 352471640
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_13: 654051040
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_14: 1507611228
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_15: 509804696
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_16: -792329951
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_17: -890660943
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_18: -2097492115
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_19: 554394956
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_2: 2145827099
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_20: -318767706
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_21: -1526956459
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_22: 2142444573
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_23: 1969481968
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_24: 515882333
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_25: 1587438298
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_26: -1982792820
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_27: 20192859
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_28: -909006681
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_29: -1410682424
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_3: 1712937415
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_30: -708047067
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_31: 289878295
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_32: -1697190689
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_33: 770981385
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_34: -2130119765
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_35: 285972314
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_36: -43447949
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_37: -2063276523
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_38: -2010285607
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_39: -1558684463
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_4: -1161892842
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_40: -1671608796
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_41: -2037436911
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_42: 756213313
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_43: 1570757878
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_44: 1350381976
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_45: -1868205810
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_46: -2090182761
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_47: -1544631042
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_48: -587834454
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_49: 1548406654
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_5: 151356614
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_50: 1619831073
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_51: -1213641687
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_52: -1201824600
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_53: -275201828
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_54: 2109306638
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_55: -470872961
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_56: -1895189481
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_57: -1549745301
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_58: -1058405476
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_59: -1544962948
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_6: -1197307747
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_60: 1052693274
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_61: 659072750
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_62: 1502984403
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_63: 1705573888
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_64: -1427061901
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_65: -335661901
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_66: 308927246
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_67: -2133031920
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_68: 1801298275
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_69: 244917542
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_7: 1071849660
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_70: -1317577471
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_71: -1806830655
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_72: -1435937438
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_73: -2126364345
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_74: 177044740
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_75: 1992886453
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_76: 887571284
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_77: 80561847
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_78: -1299271680
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_79: 1962521066
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_8: -1181251525
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_80: -183426179
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_81: 1159549536
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_82: 1826969851
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_83: 1362796243
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_84: -1896975600
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_85: 919273159
+      Mobile - Angry Birds - Post-Chrome Bad Piggies_9: 10178482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
